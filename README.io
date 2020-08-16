@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Event invite</title>
+        <title>Group study invite</title>
         <style>
             body{
                 background-color: rgb(0, 252, 168);
